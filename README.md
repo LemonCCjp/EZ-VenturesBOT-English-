@@ -26,7 +26,7 @@ low - Open low level missions
 ```
 -----------------------------------------------
 ## Download
-[https://github.com/LemonCCjp/EZ-VenturesBOT/releases/tag/Fortnite](https://github.com/LemonCCjp/EZ-VenturesBOT-English-/releases/tag/Fortnite)
+https://github.com/LemonCCjp/EZ-VenturesBOT-English-/releases/tag/Fortnite
 -----------------------------------------------
 ## ATTENTION
 ##### I will not be liable for any damages caused by this application or any of the services contained herein. Please understand it beforehand.
